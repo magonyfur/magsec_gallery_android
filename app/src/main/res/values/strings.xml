@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MagSec Gallery</string>
+    <string name="folderName">Folder Name</string>
+    <string name="appName">MagSec Gallery</string>
+    <string name="empty">No Images on this device</string>
+
+    <string name="photos_name">Photos</string>
+
+
+
+
+</resources>
